@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://waggle-sensor.github.io/news</id>
     <title>Sage Blog</title>
-    <updated>2023-05-05T00:00:00.000Z</updated>
+    <updated>2023-05-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://waggle-sensor.github.io/news"/>
     <subtitle>Sage Blog</subtitle>
     <icon>https://waggle-sensor.github.io/img/sage-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Scalable AI@Edge at Argonne's Advanced Photon Source]]></title>
+        <id>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</id>
+        <link href="https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps"/>
+        <updated>2023-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, Sage computer science researchers and computational scientists from Argonne's Advanced Photon Source (APS) collaborated to answer the question: Can edge computing be used in X-ray beamline experiments to process high-volume and fast data streams for real-time decision making?  Read more about the experiment here under Sage Science.]]></summary>
+        <content type="html"><![CDATA[<p>Earlier this year, Sage computer science researchers and computational scientists from Argonne's Advanced Photon Source (APS) collaborated to answer the question: Can edge computing be used in X-ray beamline experiments to process high-volume and fast data streams for real-time decision making?  Read more about the experiment <a href="/science/scalable-ci-in-aps">here</a> under <a href="/science">Sage Science</a>.</p>]]></content>
+        <category label="edge computing" term="edge computing"/>
+        <category label="computer science" term="computer science"/>
+        <category label="computational science" term="computational science"/>
+        <category label="Argonne APS" term="Argonne APS"/>
+        <category label="Sage science" term="Sage science"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sage's Scott Collis and Waggle in the News]]></title>
         <id>https://waggle-sensor.github.io/news/2023/05/05/neiu-crocus-deploy</id>

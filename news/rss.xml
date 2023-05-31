@@ -4,10 +4,23 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Fri, 05 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Scalable AI@Edge at Argonne's Advanced Photon Source]]></title>
+            <link>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</link>
+            <guid>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</guid>
+            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Earlier this year, Sage computer science researchers and computational scientists from Argonne's Advanced Photon Source (APS) collaborated to answer the question: Can edge computing be used in X-ray beamline experiments to process high-volume and fast data streams for real-time decision making?  Read more about the experiment here under Sage Science.]]></description>
+            <content:encoded><![CDATA[<p>Earlier this year, Sage computer science researchers and computational scientists from Argonne's Advanced Photon Source (APS) collaborated to answer the question: Can edge computing be used in X-ray beamline experiments to process high-volume and fast data streams for real-time decision making?  Read more about the experiment <a href="/science/scalable-ci-in-aps">here</a> under <a href="/science">Sage Science</a>.</p>]]></content:encoded>
+            <category>edge computing</category>
+            <category>computer science</category>
+            <category>computational science</category>
+            <category>Argonne APS</category>
+            <category>Sage science</category>
+        </item>
         <item>
             <title><![CDATA[Sage's Scott Collis and Waggle in the News]]></title>
             <link>https://waggle-sensor.github.io/news/2023/05/05/neiu-crocus-deploy</link>
