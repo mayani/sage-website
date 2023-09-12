@@ -41,7 +41,6 @@
 Deployed MDP tower hosting Sage nodes in the middle of the controlled burn</p><p><img loading="lazy" alt="thermal images" src="/assets/images/thermal-img-06f0724228ea1b42117453e79dba2365.png" width="1580" height="889" class="img_ev3q"></p><figcaption>Thermal images showing the detected increase in air temperature</figcaption><p><img loading="lazy" alt="dashboard" src="/assets/images/konza-dash-49ae19ad78e439033af060ad7bad8dd8.png" width="1065" height="1469" class="img_ev3q"></p><figcaption>Sage portal website showing data, image and audio feeds from Sage nodes</figcaption>]]></content>
         <author>
             <name>Joe Swantek</name>
-            <uri>https://www.alcf.anl.gov/about/people/laura-wolf</uri>
         </author>
         <category label="node" term="node"/>
         <category label="deployment" term="deployment"/>
