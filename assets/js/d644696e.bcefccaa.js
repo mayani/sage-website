@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5564],{4839:e=>{e.exports=JSON.parse('{"label":"lightning detection","permalink":"/news/tags/lightning-detection","allTagsPath":"/news/tags","count":1}')}}]);

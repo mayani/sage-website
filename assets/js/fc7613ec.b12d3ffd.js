@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3639],{55738:e=>{e.exports=JSON.parse('{"label":"Sage science","permalink":"/news/tags/sage-science","allTagsPath":"/news/tags","count":1}')}}]);
