@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4621],{2333:e=>{e.exports=JSON.parse('{"label":"environmental science","permalink":"/news/tags/environmental-science","allTagsPath":"/news/tags","count":1}')}}]);
