@@ -4,21 +4,10 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Tower installation with Sage nodes in Emiquon Preserve]]></title>
-            <link>https://waggle-sensor.github.io/news/2023/10/04/emiquon-preserve</link>
-            <guid>https://waggle-sensor.github.io/news/2023/10/04/emiquon-preserve</guid>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[2 Sage nodes were deployed in Emiquon Preserve to monitor wildlife and understand conditions of the local environment. The Sage nodes W020 and W01B are equipped with both stationary and pan-tilt-zoom-able cameras and meteorological sensors including dust and weather sensors. The Sage node W01B is the first field-deployed node powered by renewable energe from 8 solar panels. See more in the nature conservancy.]]></description>
-            <content:encoded><![CDATA[<p>2 Sage nodes were deployed in Emiquon Preserve to monitor wildlife and understand conditions of the local environment. The Sage nodes <a href="https://portal.sagecontinuum.org/node/W020" target="_blank" rel="noopener noreferrer">W020</a> and <a href="https://portal.sagecontinuum.org/node/W01B" target="_blank" rel="noopener noreferrer">W01B</a> are equipped with both stationary and pan-tilt-zoom-able cameras and meteorological sensors including dust and weather sensors. The Sage node <a href="https://portal.sagecontinuum.org/node/W01B" target="_blank" rel="noopener noreferrer">W01B</a> is the first field-deployed node powered by renewable energe from 8 solar panels. See more in <a href="/partners/the-nature-conservancy">the nature conservancy</a>.</p>]]></content:encoded>
-            <category>wildlife conservancy</category>
-            <category>environmental science</category>
-            <category>solar-powered</category>
-        </item>
         <item>
             <title><![CDATA[Scalable AI@Edge at Argonne's Advanced Photon Source]]></title>
             <link>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</link>
