@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1860],{76225:e=>{e.exports=JSON.parse('{"label":"oceanography","permalink":"/partners/tags/oceanography","allTagsPath":"/partners/tags","count":1}')}}]);

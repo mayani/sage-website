@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5900],{36804:s=>{s.exports=JSON.parse('{"label":"seismology","permalink":"/partners/tags/seismology","allTagsPath":"/partners/tags","count":1}')}}]);

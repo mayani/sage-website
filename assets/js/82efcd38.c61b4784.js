@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9877],{2988:e=>{e.exports=JSON.parse('{"label":"climate","permalink":"/partners/tags/climate","allTagsPath":"/partners/tags","count":1}')}}]);

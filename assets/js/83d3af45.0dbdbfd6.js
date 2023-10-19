@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9239],{89346:e=>{e.exports=JSON.parse('{"label":"public health","permalink":"/partners/tags/public-health","allTagsPath":"/partners/tags","count":3}')}}]);
