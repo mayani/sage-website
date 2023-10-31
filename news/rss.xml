@@ -4,10 +4,18 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Wed, 31 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 00:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[img/hawaii-october-2023/readme]]></title>
+            <link>https://waggle-sensor.github.io/news/img/hawaii-october-2023/readme</link>
+            <guid>https://waggle-sensor.github.io/news/img/hawaii-october-2023/readme</guid>
+            <pubDate>Tue, 31 Oct 2023 00:19:30 GMT</pubDate>
+            <description><![CDATA[Put images here]]></description>
+            <content:encoded><![CDATA[<p>Put images here</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Scalable AI@Edge at Argonne's Advanced Photon Source]]></title>
             <link>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</link>
