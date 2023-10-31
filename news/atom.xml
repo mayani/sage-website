@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://waggle-sensor.github.io/news</id>
     <title>Sage Blog</title>
-    <updated>2023-10-14T00:00:00.000Z</updated>
+    <updated>2023-10-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://waggle-sensor.github.io/news"/>
     <subtitle>Sage Blog</subtitle>
     <icon>https://waggle-sensor.github.io/img/sage-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hawaii for Scientists]]></title>
+        <id>https://waggle-sensor.github.io/news/hawaii-intro</id>
+        <link href="https://waggle-sensor.github.io/news/hawaii-intro"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Sage project combines advanced cyberinfrastructure, artificial intelligence (AI), and sensors to create intelligent, autonomous, new instruments to help us explore and understand climate change, natural hazards, urban landscapes, and the biosphere.  The Sage team has deployed more than 100 nodes across the United States – but this installation was special…. Sponsored by NAISE, our goal was more than simply connecting an NVIDIA Jetson GPU, infrared camera, and other assorted sensors into a secure infrastructure for scientific discovery – we were also intent on experiential learning -- from carrying scientific equipment through the dense forest of Volcano National Park to learning about the restoration of a 400 year old native pond.  Together with a team of students from Northwestern University, University of Chicago, and University of Illinois, we set out to learn and contribute – Science!   Hawaii is beautiful, but Science is our goal.  Enjoy the reports that will show up here.]]></summary>
+        <content type="html"><![CDATA[<p>The Sage project combines advanced cyberinfrastructure, artificial intelligence (AI), and sensors to create intelligent, autonomous, new instruments to help us explore and understand climate change, natural hazards, urban landscapes, and the biosphere.  The Sage team has <a href="https://portal.sagecontinuum.org" target="_blank" rel="noopener noreferrer">deployed more than 100 nodes</a> across the United States – but this installation was special…. Sponsored by <a href="https://naise.northwestern.edu" target="_blank" rel="noopener noreferrer">NAISE</a>, our goal was more than simply connecting an NVIDIA Jetson GPU, infrared camera, and other assorted sensors into a secure infrastructure for scientific discovery – we were also intent on experiential learning -- from carrying scientific equipment through the dense forest of Volcano National Park to learning about the restoration of a 400 year old native pond.  Together with a team of students from Northwestern University, University of Chicago, and University of Illinois, we set out to learn and contribute – Science!   Hawaii is beautiful, but Science is our goal.  Enjoy the reports that will show up here.</p><p><img loading="lazy" alt="The Team" src="/assets/images/team-hawaii-4c9b65236c6ea758c1f6f691b04878d5.png" width="1280" height="960" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Pete Beckman</name>
+        </author>
+        <category label="interns" term="interns"/>
+        <category label="hawaii" term="hawaii"/>
+        <category label="science" term="science"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer Interns Develop Next Generation Edge Applications for Sage]]></title>
         <id>https://waggle-sensor.github.io/news/summer-interns</id>
