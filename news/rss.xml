@@ -4,18 +4,10 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[img/hawaii-october-2023/readme]]></title>
-            <link>https://waggle-sensor.github.io/news/img/hawaii-october-2023/readme</link>
-            <guid>https://waggle-sensor.github.io/news/img/hawaii-october-2023/readme</guid>
-            <pubDate>Tue, 31 Oct 2023 00:19:30 GMT</pubDate>
-            <description><![CDATA[Put images here]]></description>
-            <content:encoded><![CDATA[<p>Put images here</p>]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Summer Interns Develop Next Generation Edge Applications for Sage]]></title>
             <link>https://waggle-sensor.github.io/news/summer-interns</link>
