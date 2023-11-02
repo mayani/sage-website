@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4253],{75974:s=>{s.exports=JSON.parse('{"label":"Fish ponds","permalink":"/news/tags/fish-ponds","allTagsPath":"/news/tags","count":1}')}}]);
