@@ -4,10 +4,22 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sage Field Experience in Hawai'i]]></title>
+            <link>https://waggle-sensor.github.io/news/sage-hawaii</link>
+            <guid>https://waggle-sensor.github.io/news/sage-hawaii</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sponsored by NAISE, the primary goal for the SAGE visit in Hawai’i was centered around experiential learning. Engaging directly with the local communities and university scientists on the island, we learned about traditional aquaculture farming practices, successfully deployed a Wild Sage Node in Pāhoa for climate research, surveyed future deployment areas needed to fulfill data needs in Lahaina, and more. This immersive field experience combined scientific exploration with community, highlighting the critical importance of conducting science that drives actionable impact and social change.]]></description>
+            <content:encoded><![CDATA[<p>Sponsored by <a href="https://naise.northwestern.edu" target="_blank" rel="noopener noreferrer">NAISE</a>, the primary goal for the SAGE visit in Hawai’i was centered around experiential learning. Engaging directly with the local communities and university scientists on the island, we learned about traditional aquaculture farming practices, successfully deployed a <a href="https://portal.sagecontinuum.org/node/W097" target="_blank" rel="noopener noreferrer">Wild Sage Node</a> in Pāhoa for climate research, surveyed future deployment areas needed to fulfill data needs in Lahaina, and more. This immersive field experience combined scientific exploration with community, highlighting the critical importance of conducting science that drives actionable impact and social change.</p><iframe width="100%" height="400" src="https://www.youtube.com/embed/i5z6yxM3ch4?si=dTDc1eiqEqNNvSu9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>]]></content:encoded>
+            <category>students</category>
+            <category>edge applications</category>
+            <category>deployment</category>
+            <category>hawaii</category>
+        </item>
         <item>
             <title><![CDATA[Introducing the Sage Testbed]]></title>
             <link>https://waggle-sensor.github.io/news/2024/01/10/sage-testbed</link>
