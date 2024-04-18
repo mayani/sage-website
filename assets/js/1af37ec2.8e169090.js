@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4931],{20822:e=>{e.exports=JSON.parse('{"label":"wildlife monitoring","permalink":"/partners/tags/wildlife-monitoring","allTagsPath":"/partners/tags","count":1,"unlisted":false}')}}]);

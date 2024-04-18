@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9857],{18031:e=>{e.exports=JSON.parse('{"label":"Climate Science","permalink":"/news/tags/climate-science","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);

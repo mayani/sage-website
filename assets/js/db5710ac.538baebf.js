@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6688],{33174:e=>{e.exports=JSON.parse('{"label":"urban science","permalink":"/partners/tags/urban-science","allTagsPath":"/partners/tags","count":2}')}}]);

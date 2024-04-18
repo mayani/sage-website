@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9689],{88414:e=>{e.exports=JSON.parse('{"label":"big data","permalink":"/news/tags/big-data","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);

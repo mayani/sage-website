@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7084],{15772:s=>{s.exports=JSON.parse('{"label":"talks/presentations","permalink":"/news/tags/talks-presentations","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);

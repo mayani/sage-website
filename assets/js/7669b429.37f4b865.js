@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9590],{41296:e=>{e.exports=JSON.parse('{"label":"environmental science","permalink":"/partners/tags/environmental-science","allTagsPath":"/partners/tags","count":3,"unlisted":false}')}}]);
