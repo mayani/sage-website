@@ -174,6 +174,17 @@ Hi there! My name is Alex Arnold and I'm currently a senior at Northwestern Univ
         <category label="edge applications" term="edge applications"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tower installation with Sage nodes in Emiquon Preserve]]></title>
+        <id>https://waggle-sensor.github.io/news/2023/10/04/emiquon-preserve</id>
+        <link href="https://waggle-sensor.github.io/news/2023/10/04/emiquon-preserve"/>
+        <updated>2023-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In collaboration with The Nature Conservancy, two Sage nodes were deployed at the Emiquon Preserve to monitor wildlife and understand conditions of the local environment. The Sage nodes W020 and W01B are equipped with both stationary and pan-tilt-zoom-able cameras and meteorological sensors including dust and weather sensors. The Sage node W01B is the first field-deployed node powered by renewable energy from eight solar panels.]]></summary>
+        <content type="html"><![CDATA[<p>In collaboration with <a href="https://www.nature.org/" target="_blank" rel="noopener noreferrer">The Nature Conservancy</a>, two Sage nodes were deployed at the <a href="https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/emiquon/" target="_blank" rel="noopener noreferrer">Emiquon Preserve</a> to monitor wildlife and understand conditions of the local environment. The Sage nodes <a href="https://portal.sagecontinuum.org/node/W020" target="_blank" rel="noopener noreferrer">W020</a> and <a href="https://portal.sagecontinuum.org/node/W01B" target="_blank" rel="noopener noreferrer">W01B</a> are equipped with both stationary and pan-tilt-zoom-able cameras and meteorological sensors including dust and weather sensors. The Sage node <a href="https://portal.sagecontinuum.org/node/W01B" target="_blank" rel="noopener noreferrer">W01B</a> is the first field-deployed node powered by renewable energy from eight solar panels.</p>]]></content>
+        <category label="wildlife" term="wildlife"/>
+        <category label="environmental science" term="environmental science"/>
+        <category label="solar-powered" term="solar-powered"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scalable AI@Edge at Argonne's Advanced Photon Source]]></title>
         <id>https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps</id>
         <link href="https://waggle-sensor.github.io/news/2023/05/31/scalable-ci-in-aps"/>
