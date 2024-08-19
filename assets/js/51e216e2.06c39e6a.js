@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9756],{12937:e=>{e.exports=JSON.parse('{"label":"wildfire science","permalink":"/partners/tags/wildfire-science","allTagsPath":"/partners/tags","count":2,"unlisted":false}')}}]);

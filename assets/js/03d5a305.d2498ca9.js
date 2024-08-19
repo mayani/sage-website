@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3396],{32978:s=>{s.exports=JSON.parse('{"label":"Instruments","permalink":"/news/tags/instruments","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);

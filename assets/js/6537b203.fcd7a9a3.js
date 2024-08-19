@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7269],{22594:e=>{e.exports=JSON.parse('{"label":"social science","permalink":"/news/tags/social-science","allTagsPath":"/news/tags","count":1,"unlisted":false}')}}]);

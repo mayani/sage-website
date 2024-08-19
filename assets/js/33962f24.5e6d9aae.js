@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4890],{25331:s=>{s.exports=JSON.parse('{"label":"students","permalink":"/news/tags/students","allTagsPath":"/news/tags","count":2,"unlisted":false}')}}]);
