@@ -4,10 +4,26 @@
         <title>Sage Blog</title>
         <link>https://waggle-sensor.github.io/news</link>
         <description>Sage Blog</description>
-        <lastBuildDate>Fri, 22 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Sage at TAPIA 2024]]></title>
+            <link>https://waggle-sensor.github.io/news/2024/9/20/sage-at-tapia</link>
+            <guid>https://waggle-sensor.github.io/news/2024/9/20/sage-at-tapia</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[tapia presenters]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="tapia presenters" src="https://waggle-sensor.github.io/assets/images/tapia-presenters-5e533d2e749134cfa662553ab722f3e9.jpg" width="1600" height="1200" class="img_ev3q"></p>
+<p>Sponsored by <a href="https://nairrpilot.org/projects/demo/sage" target="_blank" rel="noopener noreferrer">Sage NDC-C</a>, we presented the Sage edge computing platform and self-supervised learning at the edge in the TAPIA conference (See <a href="https://waggle-sensor.github.io/assets/files/TAPIA-sep-2024-827cd409c6c7d38235a805e8815c3286.pdf" target="_blank">the presentation slides</a>). During the workshop, we met many academic professors, computer scientists, and students who were passionate about engaging with us and sharing their research challenges. We look forward to future collaborations with them!</p>
+<blockquote>
+<p>For those who are interested in running the iPython notebooks we demonstrated in the presentation, here are the links: <a href="https://github.com/sagecontinuum/sage-data-client/blob/main/examples/contrib/geospatial_mapping_example_v2.ipynb" target="_blank" rel="noopener noreferrer">geospatial mapping</a> and <a href="https://github.com/waggle-sensor/edge-scheduler/blob/main/scripts/analysis/analyze_node_performance.ipynb" target="_blank" rel="noopener noreferrer">node performance plot</a>.</p>
+</blockquote>]]></content:encoded>
+            <category>tapia conference</category>
+            <category>students</category>
+            <category>sage</category>
+            <category>AI@Edge</category>
+        </item>
         <item>
             <title><![CDATA[Sage Field Experience in Hawai'i]]></title>
             <link>https://waggle-sensor.github.io/news/sage-hawaii</link>
